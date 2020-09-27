@@ -28,6 +28,8 @@ bing_verify:
 links:
   - title: About
     url: /cv/
+  - title: Skills
+    url: /skills/
   - title: Publications
     url: /publications/
   - title: Projects
