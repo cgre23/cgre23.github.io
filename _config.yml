@@ -1,0 +1,68 @@
+title: Personal Web Page
+description:      Welcome to my site.
+# Your site's domain goes here. Leave localhost server or blank when working locally.
+url:              //ardasnck.github.io
+#http://localhost:5000
+#https://www.ardasnck.github.io
+#disqus_shortname: ardasnck
+
+# Owner/author information
+owner:
+  name:           Arda Senocak
+  avatar:         arda.png
+  bio:            PhD-candidate @ Robotics and Computer Vision Lab at <a href="http://kaist.edu"><b>KAIST</b>.
+  location:       Daejeon, S.Korea
+  email:          arda.senocak@gmail.com
+
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  twitter: ardasnck
+  #linkedin: jponttuset
+  #google_scholar: VCBBx24AAAAJ
+#  google_plus: 113718226018314522413
+  github: ardasnck
+# Analytics and webmaster tools stuff goes here
+#google_analytics: UA-52736040-1
+#google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /cv/
+  - title: Publications
+    url: /publications/
+  - title: Projects
+    url: /tools/
+  - title: Contact
+    url: /blog/
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+#timezone:    Europe/Zurich
+#future:      true
+#pygments:    true
+highlighter: rouge
+markdown:    kramdown
+kramdown:
+  extensions: ["strikethrough"]
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

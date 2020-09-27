@@ -1,0 +1,82 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include _head.html %}
+<style>
+  .bottom-three {
+     margin-bottom: 1.5cm;
+   }
+  .bottom-small {
+     margin-bottom: 1cm;
+   }
+</style>
+</head>
+
+<body class="page">
+
+{% include _browser-upgrade.html %}
+
+{% include _navigation.html %}
+
+{% if page.image.feature %}
+  <div class="image-wrap">
+  <img src=
+    {% if page.image.feature contains 'http://' %}
+      "{{ page.image.feature }}"
+    {% elsif page.image.feature contains 'https://' %}
+      "{{ page.image.feature }}"
+    {% else %}
+      "{{ site.url }}/images/{{ page.image.feature }}"
+    {% endif %}
+  alt="{{ page.title }} feature image">
+  {% if page.image.credit %}
+    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% endif %}
+  </div><!-- /.image-wrap -->
+{% endif %}
+<div id="main" role="main">
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div>
+  <article>
+    <h1>{{ page.title }}</h1>
+    <div class="article-wrap">
+
+
+    <p align="center" class=bottom-small><img src="{{ site.url }}/images/CV/education.png" alt="Education" width="70" height="70"></p>
+    <p align="center">&#8226 Ph.D. in Electrical Engineering at <b>KAIST</b> (2016 - )</p>
+    <p align="center">&#8226 Master of Science in Electrical Engineering at <b>KAIST</b> (2013 - 2015)</p>
+    <p align="center">&#8226 Bachelors Degree in Computer Science at <b>KAIST</b> (2010 - 2013) </p>
+    <p align="center">&#8226 Bilecik Science High School (2003 - 2007) </p>  
+    <p align="center"></p> <br> <br>
+
+    <p align="center" class=bottom-small><img src="{{ site.url }}/images/CV/business.png" alt="Work Experience" width="70" height="70"></p>
+    <p align="center">&#8226 Research Assistant at <b>RCV Lab.</b>, Daejeon/S.Korea (2016 - )</p>
+    <p align="center">&#8226 Research Intern at <b>Samsung Research America</b>, Mountain View,CA/USA (Jan. 2019 - Aug. 2019)</p>  
+    <p align="center">&#8226 Intern at <b>Kiswe Mobile</b>, NJ/USA (Jun. 2014 - Sep. 2014)</p>
+    <p align="center">&#8226 Undergraduate Researcher at <b>AIPR Lab.</b>, Daejeon/S.Korea (March 2013 - June 2013)</p>
+    <p align="center">&#8226 Intern at <b>Vestel Electronics</b>, Istanbul/Turkey (Jan. 2013 - March 2013)</p>
+    <p align="center">&#8226 Intern at <b>LG Electronics</b>, Seoul/S.Korea (Jun. 2012 - Sep. 2012)</p> <br> <br>
+
+
+    {{ content }}
+    </div><!-- /.article-wrap -->
+    {% if site.disqus_shortname and page.comments %}
+      <section id="disqus_thread"></section><!-- /#disqus_thread -->
+    {% endif %}
+  </article>
+</div><!-- /#index -->
+
+<div class="footer-wrap">
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div><!-- /.footer-wrap -->
+
+{% include _scripts.html %}
+
+</body>
+</html>

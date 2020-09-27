@@ -1,0 +1,217 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include _head.html %}
+</head>
+
+<body class="page">
+<style>
+    /*********************************
+     The list of publication items
+     *********************************/
+/* The list of items */
+.biblist { }
+
+/* The item */
+.biblist li { }
+
+/* You can define custom styles for plstyle field here. */
+
+
+/*************************************
+ The box that contain BibTeX code
+ *************************************/
+div.noshow { display: none; }
+div.bibtex {
+	margin-right: 0%;
+	margin-top: 1.2em;
+	margin-bottom: 1em;
+	border: 1px solid silver;
+	padding: 0em 1em;
+	background: #ffffee;
+}
+div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; padding: 0em 0em;}</style>
+<script type="text/javascript">
+    <!--
+    // Toggle Display of BibTeX
+    function toggleBibtex(articleid) {
+        var bib = document.getElementById('bib_'+articleid);
+        if (bib) {
+            if(bib.className.indexOf('bibtex') != -1) {
+                bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
+            }
+        } else {
+            return;
+        }
+    }
+-->
+    </script>
+
+{% include _browser-upgrade.html %}
+
+{% include _navigation.html %}
+
+{% if page.image.feature %}
+  <div class="image-wrap">
+  <img src=
+    {% if page.image.feature contains 'http://' %}
+      "{{ page.image.feature }}"
+    {% elsif page.image.feature contains 'https://' %}
+      "{{ page.image.feature }}"
+    {% else %}
+      "{{ site.url }}/images/{{ page.image.feature }}"
+    {% endif %}
+  alt="{{ page.title }} feature image">
+  {% if page.image.credit %}
+    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% endif %}
+  </div><!-- /.image-wrap -->
+{% endif %}
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div>
+  <article>
+    <h1>{{ page.title }}</h1>
+    <div class="article-wrap">
+      {{ content }}
+
+
+<h4 style="margin-bottom:0px;padding-top:20px;">International Publications</h4>
+
+    <ul class="biblist">
+    <!-- Item: Caelles2016 -->
+
+	    
+<li ><p>
+<b>Learning to Localize Sound Source in Visual Scenes: Analysis and Applications,</b>
+<br><b>Arda Senocak</b>, <a href="http://thohkaistackr.wixsite.com/page" target="_blank">Taehyun Oh</a>, <a href="https://sites.google.com/site/jskimcv/" target="_blank">Junsik Kim</a>, <a href="http://faculty.ucmerced.edu/mhyang/" target="_blank">Ming-Hsuan Yang</a> ,In So Kweon<br>	
+<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI),</i>
+<i> Impact Factor (17.730)</i>
+<br />
+<a href="javascript:toggleBibtex('Arda2019SoundLocalizationAnalysis')">[BibTeX]</a>
+<a href="https://www.google.com" target="_blank">[PDF]</a>
+[Project Page] 
+</p>
+</li>	    
+	    
+<li ><p>
+<b>On Learning Association of Sound Source and Visual Scenes,</b>
+<br><b>Arda Senocak</b>, <a href="http://thohkaistackr.wixsite.com/page" target="_blank">Taehyun Oh</a>, <a href="https://sites.google.com/site/jskimcv/" target="_blank">Junsik Kim</a>, <a href="http://faculty.ucmerced.edu/mhyang/" target="_blank">Ming-Hsuan Yang</a> ,In So Kweon<br>	
+<i>Sight and Sound Workshop at CVPR</i>
+2018,<i> Oral Presentation</i>
+<br />
+<a href="javascript:toggleBibtex('Arda2018partbased')">[BibTeX]</a>
+<a href="https://www.google.com" target="_blank">[PDF]</a>
+[Project Page] 
+</p>
+<div id="bib_Arda2018onLearning" class="bibtex noshow">
+<pre>
+@inproceedings{Arda2018onLearning,
+  author = {A. Senocak and T. Oh and J. Kim and M.H. Yang and I. Kweon},
+  title = {On Learning Association of Sound Source and Visual Scenes},
+  booktitle = {Computer Vision and Pattern Recognition Workshops (CVPRW)},
+  year = {2018}
+}
+</pre>
+</div>
+</li>
+	    
+	    
+	    
+<!-- Item: BasketballIdentification -->
+<li ><p>
+<b>Part-based Player Identification using Deep Convolutional Representation and Multi-scale Pooling,</b>
+<br><b>Arda Senocak</b>, <a href="http://thohkaistackr.wixsite.com/page" target="_blank">Taehyun Oh</a>, <a href="https://sites.google.com/site/jskimcv/" target="_blank">Junsik Kim</a>, In So Kweon<br>	
+<i>4th International Workshop on Computer Vision in Sports (CVsports) in conjunction with CVPR</i>
+2018,<i> Oral presentation</i>
+<br />
+<a href="javascript:toggleBibtex('Arda2018partbased')">[BibTeX]</a>
+<a href="http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w34/Senocak_Part-Based_Player_Identification_CVPR_2018_paper.pdf" target="_blank">[PDF]</a>
+[Project Page] 
+</p>
+<div id="bib_Arda2018partbased" class="bibtex noshow">
+<pre>
+@inproceedings{Arda2018partbased,
+  author = {A. Senocak and T. Oh and J. Kim and I. Kweon},
+  title = {Part-based Player Identification using Deep Convolutional Representation and Multi-scale Pooling},
+  booktitle = {Computer Vision and Pattern Recognition Workshops (CVPRW)},
+  year = {2018}
+}
+</pre>
+</div>
+</li>	    
+	    
+	    
+	    
+<!-- Item: SoundLocalization -->
+<li ><p>
+<b>Learning to Localize Sound Source in Visual Scenes,</b>
+<br><b>Arda Senocak</b>, <a href="http://thohkaistackr.wixsite.com/page" target="_blank">Taehyun Oh</a>, <a href="https://sites.google.com/site/jskimcv/" target="_blank">Junsik Kim</a>, <a href="http://faculty.ucmerced.edu/mhyang/" target="_blank">Ming-Hsuan Yang</a>, In So Kweon<br>	
+<i>Computer Vision and Pattern Recognition (CVPR)</i>,
+2018
+<br />
+<a href="javascript:toggleBibtex('Arda2018')">[BibTeX]</a>
+<a href="https://arxiv.org/pdf/1803.03849.pdf" target="_blank">[PDF]</a>
+[Project Page] 
+</p>
+<div id="bib_Arda2018" class="bibtex noshow">
+<pre>
+@inproceedings{Arda2018,
+  author = {A. Senocak and T. Oh and J. Kim and M.H. Yang and I. Kweon},
+  title = {Learning to Localize Sound Source in Visual Scenes},
+  booktitle = {Computer Vision and Pattern Recognition (CVPR)},
+  year = {2018}
+}
+</pre>
+</div>
+</li>
+</ul>  
+<h4 style="margin-bottom:0px;padding-top:20px;">Written Theses</h4>
+    
+    <!-- Generated from JabRef by PubList by Truong Nghiem at 06:25 on 2015.07.08. -->
+    <ul class="biblist">
+
+        <!-- Item: Pont-Tuset2009 -->
+        <li ><p>
+            M.Sc. thesis<br>
+            <b>Deformable Parts Model Based Player Identification Using Deep Convolutional Representations</b><br>
+            Korea Advanced Institute of Science and Technology (KAIST), 2015
+            
+            <br />
+            <a href="javascript:toggleBibtex('Arda2015')">[BibTeX]</a>
+            
+            <a href="https://drive.google.com/open?id=0B8T48xcUkdetV1JPRjd3cnRlUXc"  target="_blank">[PDF]</a>
+            </p>
+            <div id="bib_Arda2015" class="bibtex noshow">
+                <pre>@MastersThesis{Arda2015,
+    author = {Arda Senocak},
+    title = {Deformable Parts Model Based Player Identification Using Deep Convolutional Representations},
+    school = {Korea {A}dvanced {I}nstitute of {S}cience and {T}echnology},
+    year = {2015}
+}</pre>
+            </div>
+        </li>
+    </ul>
+    
+   
+    </div><!-- /.article-wrap -->
+    {% if site.disqus_shortname and page.comments %}
+      <section id="disqus_thread"></section><!-- /#disqus_thread -->
+    {% endif %}
+  </article>
+</div><!-- /#index -->
+<div class="footer-wrap">
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div><!-- /.footer-wrap -->
+
+{% include _scripts.html %}          
+
+</body>
+</html>
