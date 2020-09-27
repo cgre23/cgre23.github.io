@@ -9,20 +9,10 @@ image: banner1.png
 
 * **18-09-2020 I successfully defended my PhD at the University of Malta** <br>
 
-* **19-10-2019 One paper is accepted as part of the Nuclear Instruments and Methods, A journal** <br>
+* **19-10-2019 A paper is accepted as part of the Nuclear Inst. and Methods in Physics Research, A (NIMA) journal** <br>
 "Error Characterization and Calibration of Real-Time Magnetic Field Measurement Systems" is accepted as part of the journal Nuclear Instruments and Methods, A (NIMA).
 
-* **16-05-2018 Paper accepted to CVPR 2018 Sight and Sound Workshop** <br>
-"On Learning Association of Sound Source and Visual Scenes" is accepted as <b>Oral paper</b> to <a href="http://sightsound.org/">Sight and Sound Workshop</a> at CVPR 2018.
 
-* **16-04-2018 Selected to participate the ICVSS 2018** <br>
-Selected to <a href="http://iplab.dmi.unict.it/icvss2018/Home">International Computer Vision Summer School 2018</a> in Sicily, Italy.
-
-* **06-04-2018 One paper is accepted to CVPR 2018 Workshops** <br>
-"Part-based Player Identification using Deep Convolutional Representation and Multi-scale Pooling" is accepted as <b>Oral paper</b> to <a href="http://www.vap.aau.dk/cvsports/">4th International Workshop on Computer Vision in Sports (CVsports)</a> at CVPR 2018.
-
-* **19-02-2018 One paper is accepted to CVPR 2018** <br>
-"Learning to Localize Sound Source in Visual Scenes" is accepted to CVPR 2018, Salt Lake City.
 
 **Who am I?**
 <br>
