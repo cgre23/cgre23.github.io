@@ -2,9 +2,6 @@ title: Personal Web Page
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              //cgre23.github.io
-#http://localhost:5000
-#https://www.ardasnck.github.io
-#disqus_shortname: ardasnck
 
 # Owner/author information
 owner:
@@ -15,9 +12,9 @@ owner:
   email:          chrisgre23@gmail.com
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  #twitter: ardasnck
+  #twitter:
   linkedin: christian-grech-77650897
-  #google_scholar: VCBBx24AAAAJ
+  #google_scholar: 
 #  google_plus: 113718226018314522413
   github: cgre23
 # Analytics and webmaster tools stuff goes here
