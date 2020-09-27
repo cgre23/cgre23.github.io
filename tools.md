@@ -12,8 +12,10 @@ On this page I will share some posts about the research projects that I am condu
 ### The Development and Optimisation of the B-train System for the ELENA ring
 * [Abstract](elena.md)
 * [Code](https://github.com/cgre23/ELENA-B-train-Commissioning)
+* Skills developed: Matlab, Python, C++, Git
 
 ### COLDEX Data Acquisition Framework
 * [Abstract](coldex.md)
 * [Report](http://cds.cern.ch/record/2046133/files/CERNReport.pdf)
 * [Code](https://github.com/cgre23/COLDEX-data-acquisition-interface)
+* Skills developed: LabVIEW, Java APIs
