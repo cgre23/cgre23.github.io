@@ -6,6 +6,7 @@ tags: [skills]
 modified: 27-9-2020
 comments: false
 ---
+This page lists the skills I have acquired through my education and work experience:
 
 ### Programming Languages
 * Python, Java, C, C++, PLC programming, VHDL, R, SQL
