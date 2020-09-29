@@ -15,11 +15,16 @@ Co-supervisor: Dr. Marco Buzio (CERN)
 
 <p align="justify"> As part of a site-wide consolidation project, all the B-train systems at CERN are being replaced with upgraded electronics, software, and sensors. The Extra Low ENergy Antiproton (ELENA) ring is a new decelerator being built at CERN; hence a B-train system is required to be installed and commissioned. The ELENA ring presents challenges to magnetic field measurement systems, such as very low magnetic field and long cycle times. The aim of this thesis is to commission a measurement model for the ELENA B-train, as well as validating and optimising the instrumentation. </p><br>
 
+
+![](/images/ELENA_1.JPG)
+<p align="center"> Figure 1: ELENA Ring at the start of commissioning <br>
+
+![](/images/FIRESTORM.PNG)
 <p align="center">
   <img src="images/ELENA_1.JPG" width="360" title="hover text">
   <img src="images/FIRESTORM.PNG" width="345" alt="accessibility text">
 </p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figure 1: ELENA Ring at the start of commissioning  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Figure 2: Proposed B-train architecture<br><br>
+<p align="center">   Figure 2: Proposed B-train architecture<br><br>
 
 <p align="justify"> A measurement model is thus developed in this project, and applied to identify  the ring and reference magnets, the sensors, as well as the electronic acquisition chain. An uncertainty estimation helps identify the biggest sources of error in the measurement, providing an insight on potential improvements in the measurement system. The ELENA B-train system is validated through a series of tests, characterising the behaviour of the sensors, the stability and the accuracy of the instrument in operating conditions, confirming a relative reproducibility and accuracy better than 2 units (10<sup>-4</sup>). </p><br>
 
