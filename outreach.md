@@ -14,15 +14,13 @@ Sharing my work as well as general scientific knowledge with the public is a big
 * Presented my PhD work in the [Doctoral Symposium](https://www.um.edu.mt/newspoint/news/2020/03/2nd-annual-doc-school-symp?fbclid=IwAR298xhm4Oy0Xo2_lLsbudy3hLkQP_fRwuiXIWmn_q6kiDChNZyBkvT576I#.XnSTKGP9Pmc.facebook) organized by the University of Malta's Doctoral School.
 
 ### 2019
-* Took part in a workshop: 'Communication training for experienced CERN guides', focused on improving science communication and public engagement skills. This course was given by [Malcom Love](http://www.malcolmlove.org/), who has worked for the BBC as a producer, hosted live radio shows, and delivered Famelab masterclasses around the world.
+* Took part in a workshop: 'Communication training for experienced CERN guides', focused on improving science communication and public engagement skills. This course was given by [Malcolm Love](http://www.malcolmlove.org/), who has worked for the BBC as a producer, hosted live radio shows, and delivered Famelab masterclasses around the world.
 
 ### 2018
 * Participated in the [Gorini PhD School](https://www.gmee.org/gorini2018/) at CERN, where I presented my work in the organized poster session.
 
 ### 2016-2019
 * As part of CERN's public outreach programme, I was trained as a guide and volunteering on a weekly basis to [guide tours at ten different visit points.](https://timesofmalta.com/articles/view/university-science-students-visit-cern.674345)
-
-
 
 ### 2016
 * Published an [article](https://www.um.edu.mt/library/oar/bitstream/123456789/19395/1/THINK%2c%202016-17%20-%20A9.pdf) in the University of Malta's [THINK Magazine](https://www.um.edu.mt/think/) on the use of muscle activity to control machines.
