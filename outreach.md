@@ -7,7 +7,7 @@ modified: 6-3-2018
 comments: false
 ---
 
-On this page I will share some information about endeavours to share scientific knowledge with the public.
+Sharing my work as well as general scientific knowledge with the public is a big passion of mine. On this page I will share some information about these endeavours.
 
 ### 2020
 * I won a student grant to present my work as part of the [International Particle Accelerator conference](https://www.ipac20.org/) (IPAC) 2020 held in Caen. The event was eventually cancelled due to the global pandemic.
@@ -15,6 +15,9 @@ On this page I will share some information about endeavours to share scientific 
 
 ### 2019
 * Took part in a workshop: 'Communication training for experienced CERN guides', focused on improving science communication and public engagement skills. This course was given by [Malcom Love](http://www.malcolmlove.org/), who has worked for the BBC as a producer, hosted live radio shows, and delivered Famelab masterclasses around the world.
+
+### 2018
+* Participated in the [Gorini PhD School](https://www.gmee.org/gorini2018/) at CERN, where I presented my work in the organized poster session.
 
 ### 2016-2019
 * As part of CERN's public outreach programme, I was trained as a guide and volunteering on a weekly basis to [guide tours at ten different visit points.](https://timesofmalta.com/articles/view/university-science-students-visit-cern.674345)
