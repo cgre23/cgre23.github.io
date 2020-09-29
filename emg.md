@@ -21,4 +21,4 @@ Co-supervisor: Dr. Marvin Bugeja (University of Malta)
   <img src="https://github.com/cgre23/cgre23.github.io/blob/master/images/Muscles2.JPG?raw=true" width="280" title="Electrode placement">
   <img src="https://github.com/cgre23/cgre23.github.io/blob/master/images/Application.JPG?raw=true" width="335" alt="Robotic Arm Application">
 </p>
-Figure 1: Electrode and position marker placement  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Figure 2: Application of the framework on a Robotic Arm
+Figure 1: Electrode and position marker placement  &nbsp;&nbsp;&nbsp;&nbsp;  Figure 2: Application of the framework on a Robotic Arm
