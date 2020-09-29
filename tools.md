@@ -12,7 +12,7 @@ On this page I will share some posts about the research projects that I am condu
 ### The Development and Optimisation of the B-train System for the ELENA ring
 * [Project Description](elena.md)
 * [Code](https://github.com/cgre23/ELENA-B-train-Commissioning)
-* Skills developed: Matlab, Python, C++, Git
+* Skills developed: MATLAB, Python, C++, Git
 
 ### COLDEX Data Acquisition Framework
 * [Project Description](coldex.md)
@@ -23,3 +23,4 @@ On this page I will share some posts about the research projects that I am condu
 ### Using Neural Networks for Simultaneous and Proportional Estimation of Upper Arm Kinematics
 * [Project Description](emg.md)
 * [Report](https://www.um.edu.mt/library/oar//handle/123456789/12939)
+* Skills developed: MATLAB, Machine learning, Simulink
