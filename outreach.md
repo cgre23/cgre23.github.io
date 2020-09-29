@@ -14,7 +14,7 @@ On this page I will share some information about endeavours to share scientific 
 * Presented my PhD work in the [Doctoral Symposium](https://www.um.edu.mt/newspoint/news/2020/03/2nd-annual-doc-school-symp?fbclid=IwAR298xhm4Oy0Xo2_lLsbudy3hLkQP_fRwuiXIWmn_q6kiDChNZyBkvT576I#.XnSTKGP9Pmc.facebook) organized by the University of Malta's Doctoral School.
 
 ### 2019
-* Took part in a workshop: 'Communication training for experienced CERN guides', focused on improving science communication and public engagement skills. This course was given by Malcom Love, who has worked for the BBC as a producer, hosted live radio shows, and delivered Famelab masterclasses around the world.
+* Took part in a workshop: 'Communication training for experienced CERN guides', focused on improving science communication and public engagement skills. This course was given by [Malcom Love](http://www.malcolmlove.org/), who has worked for the BBC as a producer, hosted live radio shows, and delivered Famelab masterclasses around the world.
 
 ### 2016-2019
 * As part of CERN's public outreach programme, I was trained as a guide and volunteering on a weekly basis to [guide tours at ten different visit points.](https://timesofmalta.com/articles/view/university-science-students-visit-cern.674345)
