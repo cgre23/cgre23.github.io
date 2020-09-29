@@ -22,7 +22,7 @@ Co-supervisor: Dr. Marco Buzio (CERN)
 ![](/images/FIRESTORM.PNG)
 <p align="center">
   <img src="images/ELENA_1.JPG" width="360" title="hover text">
-  <img src="images/FIRESTORM.PNG" width="345" alt="accessibility text">
+  <img src="https://github.com/cgre23/cgre23.github.io/blob/master/images/FIRESTORM.PNG?raw=true" width="345" alt="accessibility text">
 </p>
 <p align="center">   Figure 2: Proposed B-train architecture<br><br>
 
