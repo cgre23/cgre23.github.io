@@ -6,6 +6,9 @@ tags: [Jekyll, theme, responsive, blog, template]
 image: banner1.png
 ---
 **My recent activities**
+* **24-11-2020 A paper is accepted as part of the Transactions on Magnetics (IEEE) journal** <br>
+"Prediction of Dynamic Ferromagnetic Hysteresis in Accelerator Dipole Magnets using Machine Learning Techniques" is accepted as part of the journal Transactions on Magnetics (IEEE).
+
 * **22-09-2020 A paper is accepted as part of the Nuclear Inst. and Methods in Physics Research, A (NIMA) journal** <br>
 "Error Characterization and Calibration of Real-Time Magnetic Field Measurement Systems" is accepted as part of the journal Nuclear Instruments and Methods, A (NIMA).
 
