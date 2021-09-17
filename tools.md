@@ -9,6 +9,11 @@ comments: false
 
 On this page I will share some posts about the research projects that I am conducting.
 
+### Absolute Energy Calibration Tool for Self Seeding experiments at the EuXFEL
+* [Project Description](euxfel.md)
+* [Code](https://github.com/cgre23/pyhirex)
+* Skills developed: Python, sklearn, PyQt5
+
 ### The Development and Optimisation of the B-train System for the ELENA ring
 * [Project Description](elena.md)
 * [Code](https://github.com/cgre23/ELENA-B-train-Commissioning)
