@@ -12,7 +12,8 @@ On this page I will share some posts about the research projects that I am condu
 ### HXRSS at the EuXFEL
 * [Project Description](euxfel.md)
 * [Code](https://github.com/cgre23/pyhirex)
-* [Graphs](graphs.md)
+* [Crystal Map](graphs.md)
+* [Crystal Bragg Model](Braggmodel.md)
 * Skills developed: Python, sklearn, PyQt5
 
 ### The Development and Optimisation of the B-train System for the ELENA ring
