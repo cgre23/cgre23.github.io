@@ -1,5 +1,5 @@
 ---
-layout: page2
+layout: post
 title: Machine Learning Application for virtual diagnostics of the European XFEL
 permalink: /euxfel/
 description: Machine Learning
