@@ -8,6 +8,3 @@ image:
   feature:
 ---
 <br>**Project description**
-
-
-{% include _HXRSS_Map.html %}
