@@ -6,7 +6,7 @@ url:              //cgre23.github.io
 # Owner/author information
 owner:
   name:           Christian Grech
-  avatar:         img12.jpg
+  #avatar:         img12.jpg
   bio:            Computer Scientist at the <a href="http://desy.de"><b>Deutsches Elektronen-Synchrotron (DESY)</b>.
   location:       Germany
   email:          chrisgre23@gmail.com
