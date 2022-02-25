@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Machine Learning Application for virtual diagnostics of the European XFEL
+title: HXRSS Crystal Calibration
 permalink: /euxfel/
 description: Machine Learning
 tags: [Jekyll, theme, responsive, blog, template]
@@ -10,6 +10,6 @@ image:
 Supervisors: Marc Guetg (DESY), Gianluca Geloni (EuXFEL)
 
 <br>**Project description**
-<p align="justify"> Work in progress </p><br>
+
 
 {% include _HXRSS_Map.html %}
