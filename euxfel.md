@@ -11,3 +11,4 @@ Supervisors: Marc Guetg (DESY), Gianluca Geloni (EuXFEL)
 
 <br>**Project description**
 <p align="justify"> Work in progress </p><br>
+{% include figure.html %}
