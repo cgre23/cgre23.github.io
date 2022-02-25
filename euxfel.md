@@ -7,8 +7,6 @@ tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature:
 ---
-Supervisors: Marc Guetg (DESY), Gianluca Geloni (EuXFEL)
-
 <br>**Project description**
 
 
