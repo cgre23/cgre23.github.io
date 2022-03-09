@@ -4,4 +4,4 @@ image:
   feature:
 ---
 
-{% include _HXRSS_Map.html %}
+{% include _HXRSS_Meas.html %}
