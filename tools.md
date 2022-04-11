@@ -14,6 +14,8 @@ On this page I will share some posts about the research projects that I am condu
 * [Code](https://github.com/cgre23/pyhirex)
 * [Crystal Map](graphs.md)
 * [Crystal Bragg Model](Braggmodel.md)
+* [Crystal reflection map](reflectionscamera.md)
+* [Crystal Reflections Camera Acquisitions](reflectionsintensity.md)
 * Skills developed: Python, sklearn, PyQt5
 
 ### The Development and Optimisation of the B-train System for the ELENA ring
