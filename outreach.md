@@ -11,6 +11,7 @@ Sharing my work as well as general scientific knowledge with the public is a big
 
 ### 2022
 * Participated in the [International Particle Accelerator conference](https://www.ipac22.org) in Bangkok, where I presented my work in the organized poster session.
+
 ### 2020
 * I won a student grant to present my work as part of the [International Particle Accelerator conference](https://www.ipac20.org/) (IPAC) 2020 held in Caen. The event was eventually cancelled due to the global pandemic.
 * Presented my PhD work in the [Doctoral Symposium](https://www.um.edu.mt/newspoint/news/2020/03/2nd-annual-doc-school-symp?fbclid=IwAR298xhm4Oy0Xo2_lLsbudy3hLkQP_fRwuiXIWmn_q6kiDChNZyBkvT576I#.XnSTKGP9Pmc.facebook) organized by the University of Malta's Doctoral School.

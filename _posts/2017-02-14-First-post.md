@@ -9,7 +9,7 @@ First, welcome to my personal website! I have created this site to share with yo
 
 * My recent research projects and ongoing activities
 * Blog posts on buring research topics to share my view - feel free to comment!
-* Valurable links and ressources for conducting research
+* Valurable links and resources for conducting research
 
 In this first blog post I would like to comment on the **value** of creating a fully personal website for sharing your research.
 

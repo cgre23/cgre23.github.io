@@ -34,3 +34,12 @@ By comparing the bottom left corner energy value of the spectrometer image and t
 <p align="center">
   <img src="https://github.com/cgre23/cgre23.github.io/blob/master/images/poc.png?raw=true" width="800" title="Template Matching proof-of-concept">
 </p>
+
+
+<br>**Project resources**<br>
+
+* [Code](https://github.com/cgre23/pyhirex)
+* [Bragg Crystal Map](graphs.md)
+* [Crystal Bragg Model](Braggmodel.md)
+* [Crystal reflection map](reflectionscamera.md)
+* [Crystal Reflections Camera Acquisitions](reflectionsintensity.md)
