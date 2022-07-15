@@ -32,11 +32,11 @@ The second image is the template. The third image is the image created from the 
 By comparing the bottom left corner energy value of the spectrometer image and the matched image, one can calculate the energy difference.  The final image plots the calibrated template on top of the model.  </p><br>
 
 <p align="center">
-  <img src="https://github.com/cgre23/cgre23.github.io/blob/master/images/poc.png?raw=true" width="800" title="Template Matching proof-of-concept">
+  <img src="https://github.com/cgre23/cgre23.github.io/blob/master/images/poc.png?raw=true" width="1000" title="Template Matching proof-of-concept">
 </p>
 
-
-<br>**Project resources**<br>
+<br>
+<br>**Project resources**
 
 * [Code](https://github.com/cgre23/pyhirex)
 * [Bragg Crystal Map](graphs.md)
