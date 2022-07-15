@@ -10,13 +10,13 @@ comments: false
 On this page I will share some posts about the research projects that I am conducting.
 
 ### Machine Learning applications at the EuXFEL
-* [Project Description](euxfel.md)
+* [Bragg Crystal Energy Calibration Project Description](euxfel.md)
 * [Code](https://github.com/cgre23/pyhirex)
-* [Crystal Map](graphs.md)
+* [Bragg Crystal Map](graphs.md)
 * [Crystal Bragg Model](Braggmodel.md)
 * [Crystal reflection map](reflectionscamera.md)
 * [Crystal Reflections Camera Acquisitions](reflectionsintensity.md)
-* Skills developed: Python, sklearn, PyQt5
+* Skills developed: Python, sklearn, PyQt5, computer vision
 
 ### The Development and Optimisation of the B-train System for the ELENA ring
 * [Project Description](elena.md)
