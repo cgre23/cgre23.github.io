@@ -13,7 +13,7 @@ Other Participants: Marc Guetg, Gianluca Aldo Geloni, MD Zishan Ansari <br>
 
 <p align="justify"> Single-crystal monochromators are used in free electron lasers for hard x-ray self-seeding (HXRSS), selecting a very narrow spectral range and further amplifying the original SASE signal.
 When a crystal is rotated, one can exploit several symmetric and asymmetric reflections as established by Bragg's law.  The following image shows the SASE 2 beamline at the European XFEL, set up for Hard X-Ray Self Seeding (HXRSS).
-In each undulator, alternating magnetic field causes the emission of X-Ray radiation from electrons. Crystals are then used to filter certain wavelengths/energies.
+In each undulator, an alternating magnetic field causes the emission of X-Ray radiation from electrons. Crystals are then used to filter certain wavelengths/energies.
 
 <p align="center">
   <img src="https://github.com/cgre23/cgre23.github.io/blob/master/images/und.png?raw=true" width="700" title="Undulator">
@@ -32,7 +32,7 @@ the difference between the photon energy as measured by the single-shot spectrom
 </p>
 
 <p align="center"><small>  Fig. 2 - Photon energy values at which diffraction occurs in a diamond crystal, as a function of the pitch angle for fixed values of the roll and yaw angles.
-Each curve corresponds to reflection from a different set of crystallographic planes. A partial list of reflections is shown in the legend. </small> </p> <br><br>
+Each curve corresponds to reflection from a different set of crystallographic planes. A partial list of reflections is shown in the legend. </small> </p> <br>
 
 
 <p align="justify"> Crystal reflections are first scanned at different pitch angles using the spectrometer, and the image obtained is binarized.
