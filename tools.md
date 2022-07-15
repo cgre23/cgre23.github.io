@@ -16,7 +16,7 @@ On this page I will share some posts about the research projects that I am condu
 
 ### Keyword Extraction from the OPEN-AIRE journal database
 * [Natural Language Processing Techniques for Keyword Extraction](keywords.md)
-* Skills developed: Python, nlp, Ahocorasick algorithm, Big Data, SQL
+* Skills developed: Python, nlp, Aho-corasick algorithm, Big Data, SQL
 
 ### The Development and Optimisation of the B-train System for the ELENA ring
 * [Project Description](elena.md)
