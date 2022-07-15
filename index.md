@@ -29,4 +29,3 @@ image: banner1.png
   <li>Natural Language Processing</li>
   <li>Computer Vision</li>
 </ul>  
-<br />
