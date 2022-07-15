@@ -13,7 +13,15 @@ image:
 <p align="justify"> Single-crystal monochromators are used in free electron lasers for hard x-ray self-seeding, selecting a very narrow spectral range and further amplifying the original SASE signal.
 When a crystal is rotated, one can exploit several symmetric and asymmetric reflections as established by Bragg's law.  
 Currently, a Machine Learning (ML) classifier is used during experimental setup to identify the crystal indices corresponding to a given reflection, compare to a model, and eventually calculate
-the difference between the photon energy as measured by the single-shot spectrometer and the actual one.  </p> <br><br>
+the difference between the photon energy as measured by the single-shot spectrometer and the actual one. The model is shown below: </p> <br>
+
+
+<p align="center">
+  <img src="https://github.com/cgre23/cgre23.github.io/blob/master/images/reflections.png?raw=true" width="700" title="Model">
+</p>
+
+<p align="justify">  Photon energy values at which diffraction occurs in a diamond crystal, as a function of the pitch angle for fixed values of the roll and yaw angles.
+Each curve corresponds to reflection from a different set of crystallographic planes. A partial list of reflections is shown in the legend.  </p> <br><br>
 
 
 <p align="justify"> Crystal reflections are first scanned at different pitch angles using the spectrometer, and the image obtained is binarized.
@@ -22,9 +30,10 @@ A ML classifier then compares a preset measurement model and the extracted lines
 Improvements in the future can be made in extracting more information from the raw images by trying different image processing techniques. </p> <br><br>
 
 <p align="center">
-  <img src="https://github.com/cgre23/cgre23.github.io/blob/master/images/feature_abc.png?raw=true" width="1000" title="Example of a) a captured image, b) a processed version (binarization, dilation, erosion) and c) the detected lines (Hough Transform).">
+  <img src="https://github.com/cgre23/cgre23.github.io/blob/master/images/feature_abc.png?raw=true" width="800" title="Example of a) a captured image, b) a processed version (binarization, dilation, erosion) and c) the detected lines (Hough Transform).">
 </p>
 
+<p align="justify"> Example of a) a captured image, b) a processed version (binarization, dilation, erosion) and c) the detected lines (Hough Transform).</p><br><br>
 
 <p align="justify"> We are now proposing an alternative method for identifying the actual photon energy by implementing a technique known as Template Matching.
 Template matching is a common computer vision technique where an algorithm is trying to find similarities between two images.

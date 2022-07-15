@@ -11,8 +11,9 @@ On this page I will share some posts about the research projects that I am condu
 
 ### Machine Learning applications at the EuXFEL
 * [Bragg Crystal Energy Calibration](euxfel.md)
+* Big Data integration into HDF5 format
 * Virtual Diagnostics for the SPB/SFX experiment
-* Skills developed: Python, sklearn, PyQt5, computer vision
+* Skills developed: Python, sklearn, PyQt5, Convolutional Neural Networks, Machine Learning Classifiers
 
 ### Keyword Extraction from the OPEN-AIRE journal database
 * [Natural Language Processing Techniques for Keyword Extraction](keywords.md)

@@ -9,7 +9,7 @@ comments: false
 This page lists the skills I have acquired through my education and work experience:
 
 ### Programming Languages
-* Python, Java, C, R, SQL
+* Python, Java, C, R, SQL, HTML, Javascript
 
 ### Software
 * MATLAB, Simulink, SPSS, LabVIEW, LaTeX, Android Studio, Talend, Microsoft Power BI, Tableau, Git
