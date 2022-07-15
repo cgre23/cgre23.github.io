@@ -9,7 +9,7 @@ comments: false
 
 On this page I will share some posts about the research projects that I am conducting.
 
-### HXRSS at the EuXFEL
+### Machine Learning applications at the EuXFEL
 * [Project Description](euxfel.md)
 * [Code](https://github.com/cgre23/pyhirex)
 * [Crystal Map](graphs.md)

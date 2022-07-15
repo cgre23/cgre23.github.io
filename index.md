@@ -7,7 +7,8 @@ image: banner1.png
 ---
 **My recent activities**
 
-* **Sep 2021 My work on the development of a real-time magnetic measurement system at CERN was published by Electronics (MDPI)** <br>
+* **June 2022 I presented my work on the application of Machine Learning techniques for the European XFEL in Bangkok, Thailand.** <br>
+* **Sep 2021 My work on the development of a real-time magnetic measurement system at CERN was published by Electronics (MDPI).** <br>
 
 
 **Who am I?**
