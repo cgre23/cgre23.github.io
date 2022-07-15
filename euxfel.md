@@ -27,7 +27,7 @@ Each curve corresponds to reflection from a different set of crystallographic pl
 <p align="justify"> Crystal reflections are first scanned at different pitch angles using the spectrometer, and the image obtained is binarized.
 With a 68% extraction rate and a very low false positive rate, lines with a high intensity and good contrast from the background can be detected using the Hough Transform method.
 A ML classifier then compares a preset measurement model and the extracted lines and identifies the reflections based on different line properties.  Most errors were noted in cases where multiple parallel lines occur close to each other (for example classifying [1, -1, -1] as [1, -1, 1]).
-</p> <br><br>
+</p> <br>
 
 <p align="center">
   <img src="https://github.com/cgre23/cgre23.github.io/blob/master/images/feature_abc.png?raw=true" width="700" title="Example of a) a captured image, b) a processed version (binarization, dilation, erosion) and c) the detected lines (Hough Transform).">
@@ -38,12 +38,12 @@ A ML classifier then compares a preset measurement model and the extracted lines
 <p align="justify"> We are now proposing an alternative method for identifying the actual photon energy by implementing a technique known as Template Matching.
 Template matching is a common computer vision technique where an algorithm is trying to find similarities between two images.
 This technique slides a window across the image that will provide a percent match with the template. If the percent match is above a certain threshold then it is assumed to be a match.
-This will in some situations result in poor performance because it requires the template to overlap the image identically. </p><br><br>
+This will in some situations result in poor performance because it requires the template to overlap the image identically. </p><br>
 
 
 <p align="justify"> Template matching is a sufficient technique if one knows exactly what they are looking for and are confident that it will appear almost identically in every example.
 ML techniques such as Convolutional Neural Networks (CNN) can be used in cases where the template and the image are not identical. ML techniques are not rigid and are able to generalize a dataset very well.
-What is required in this case is a fairly large dataset so that the model is robust to many different scenarios. </p><br><br>
+What is required in this case is a fairly large dataset so that the model is robust to many different scenarios. </p><br>
 
 <p align="justify"> This project involves the matching of a processed spectrometer image (template), with an image created from an available model. The following proof-of-concept gets the original spectrometer scan (first image) and clips out the unnecessary blank areas (second image).
 The second image is the template. The third image is the image created from the Bragg model, with the red box being the matched area using sklearn’s match_template package.
