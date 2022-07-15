@@ -20,20 +20,20 @@ the difference between the photon energy as measured by the single-shot spectrom
   <img src="https://github.com/cgre23/cgre23.github.io/blob/master/images/reflections.png?raw=true" width="700" title="Model">
 </p>
 
-<p align="justify">  Photon energy values at which diffraction occurs in a diamond crystal, as a function of the pitch angle for fixed values of the roll and yaw angles.
-Each curve corresponds to reflection from a different set of crystallographic planes. A partial list of reflections is shown in the legend.  </p> <br><br>
+<p align="justify"><small>  Fig. 1 - Photon energy values at which diffraction occurs in a diamond crystal, as a function of the pitch angle for fixed values of the roll and yaw angles.
+Each curve corresponds to reflection from a different set of crystallographic planes. A partial list of reflections is shown in the legend. </small> </p> <br><br>
 
 
 <p align="justify"> Crystal reflections are first scanned at different pitch angles using the spectrometer, and the image obtained is binarized.
 With a 68% extraction rate and a very low false positive rate, lines with a high intensity and good contrast from the background can be detected using the Hough Transform method.
 A ML classifier then compares a preset measurement model and the extracted lines and identifies the reflections based on different line properties.  Most errors were noted in cases where multiple parallel lines occur close to each other (for example classifying [1, -1, -1] as [1, -1, 1]).
-Improvements in the future can be made in extracting more information from the raw images by trying different image processing techniques. </p> <br><br>
+</p> <br><br>
 
 <p align="center">
-  <img src="https://github.com/cgre23/cgre23.github.io/blob/master/images/feature_abc.png?raw=true" width="800" title="Example of a) a captured image, b) a processed version (binarization, dilation, erosion) and c) the detected lines (Hough Transform).">
+  <img src="https://github.com/cgre23/cgre23.github.io/blob/master/images/feature_abc.png?raw=true" width="700" title="Example of a) a captured image, b) a processed version (binarization, dilation, erosion) and c) the detected lines (Hough Transform).">
 </p>
 
-<p align="justify"> Example of a) a captured image, b) a processed version (binarization, dilation, erosion) and c) the detected lines (Hough Transform).</p><br><br>
+<p align="justify"><small> Fig. 2 - Example of a) a captured image, b) a processed version (binarization, dilation, erosion) and c) the detected lines (Hough Transform). </small></p><br><br>
 
 <p align="justify"> We are now proposing an alternative method for identifying the actual photon energy by implementing a technique known as Template Matching.
 Template matching is a common computer vision technique where an algorithm is trying to find similarities between two images.
@@ -52,7 +52,7 @@ By comparing the bottom left corner energy value of the spectrometer image and t
 <p align="center">
   <img src="https://github.com/cgre23/cgre23.github.io/blob/master/images/poc.png?raw=true" width="1000" title="Template Matching proof-of-concept">
 </p>
-
+<p align="justify"><small> Fig. 3 - Example of template matching applied to a single-shot spectrometer scan. </small></p><br><br>
 <br>
 <br>**Project resources**
 
