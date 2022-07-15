@@ -7,8 +7,10 @@ tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature:
 ---
-<br>**Project description**
 Other Participants: Marc Guetg, Gianluca Aldo Geloni, MD Zishan Ansari <br>
+
+<br>**Project description**
+
 
 <p align="justify"> Single-crystal monochromators are used in free electron lasers for hard x-ray self-seeding, selecting a very narrow spectral range and further amplifying the original SASE signal.
 When a crystal is rotated, one can exploit several symmetric and asymmetric reflections as established by Bragg's law.  
