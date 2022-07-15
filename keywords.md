@@ -15,6 +15,6 @@ image:
 
 
 <p align="justify"> Secondly, related keywords are identified using the MinHash technique. In computer science and data mining, MinHash (or the min-wise independent permutations locality sensitive hashing scheme) is a technique for quickly estimating how similar two sets are.
-The Jaccard similarity coefficient is a commonly used indicator of the similarity between two sets. Let U be a set and A and B be subsets of U, then the Jaccard index is defined to be the ratio of the number of elements of their intersection and the number of elements of their union:
-This value is 0 when the two sets are disjoint, 1 when they are equal, and strictly between 0 and 1 otherwise. Two sets are more similar (i.e. have relatively more members in common) when their Jaccard index is closer to 1. The goal of MinHash is to estimate J(A,B) quickly, without explicitly computing the intersection and union.  
+The Jaccard similarity coefficient is a commonly used indicator of the similarity between two sets. Let U be a set and A and B be subsets of U, then the Jaccard index is defined to be the ratio of the number of elements of their intersection and the number of elements of their union.
+The goal of MinHash is to estimate J(A,B) quickly, without explicitly computing the intersection and union.  
   </p> <br><br>

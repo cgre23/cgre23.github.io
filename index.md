@@ -20,3 +20,11 @@ image: banner1.png
 <p align="justify">With regards to my skills, my long-term experience of using numerical software packages (Matlab, R and Python) and machine learning platforms (Tensorflow, Keras, Pytorch, Numpy. Pandas) enables me to conduct empirical research effectively. </p>
 
 **My strengths:**
+
+<ul>
+  <li>Neural Networks</li>
+  <li>Surrogate Modelling</li>
+  <li>Python, Java</li>
+  <li>Natural Language Processing</li>
+  <li>Computer Vision</li>
+</ul>  
