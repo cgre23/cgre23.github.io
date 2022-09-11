@@ -7,7 +7,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature:
 ---
-Other Participants: Marc Guetg, Gianluca Aldo Geloni, MD Zishan Ansari <br>
+Other Participants: Marc Guetg, Gianluca Aldo Geloni <br>
 
 <br>**Project description**
 
@@ -72,3 +72,8 @@ By comparing the bottom left corner energy value of the spectrometer image and t
 * [Crystal Bragg Model](Braggmodel.md)
 * [Crystal reflection map](reflectionscamera.md)
 * [Crystal Reflections Camera Acquisitions](reflectionsintensity.md)
+
+
+## HXRSS crystal scan feature
+
+* [Crystal Automatic Scanning](runs.md)
