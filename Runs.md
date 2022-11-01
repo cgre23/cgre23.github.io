@@ -6,5 +6,4 @@ image:
 
 {% include run2.html %}
 
-{% include run2.html %}
 
