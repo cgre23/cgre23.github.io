@@ -77,4 +77,3 @@ By comparing the bottom left corner energy value of the spectrometer image and t
 ## HXRSS crystal scan feature
 
 * [HXRSS Synchronous Energy-Crystal Scanning Test](Runs.md)
-* [HXRSS Synchronous Energy-Crystal Scanning Run](Scans.md)
