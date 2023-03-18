@@ -34,4 +34,5 @@ image: banner1.png
   <li>Python, Java</li>
   <li>Natural Language Processing</li>
   <li>Computer Vision</li>
+  <li>Time Series Forecasting</li>
 </ul>  
