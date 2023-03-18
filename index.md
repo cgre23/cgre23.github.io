@@ -7,7 +7,9 @@ image: banner1.png
 ---
 **My recent activities**
 
-* **June 2022 I presented my work on the application of Machine Learning techniques for the European XFEL in Bangkok, Thailand.** <br>
+* March 2023 I have been invited to talk about my work on using Computer Vision techniques for crystal calibration at the SPIE conference in Prague in April. <br>
+
+* June 2022 I presented my work on the application of Machine Learning techniques for the European XFEL in Bangkok, Thailand. <br>
 
 * Sep 2021 My work on the development of a real-time magnetic measurement system at CERN was published by Electronics (MDPI).<br>
 
