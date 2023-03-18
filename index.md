@@ -7,6 +7,8 @@ image: banner1.png
 ---
 **My recent activities**
 
+* March 2023: my Kaggle Predictive Maintenance case study is now [public]https://www.kaggle.com/code/antimattermatters/using-xgboost-to-predict-supply-downtime/). <br>
+
 * March 2023 I have been invited to talk about my work on using Computer Vision techniques for crystal calibration at the SPIE conference in Prague in April. <br>
 
 * June 2022 I presented my work on the application of Machine Learning techniques for the European XFEL in Bangkok, Thailand. <br>
