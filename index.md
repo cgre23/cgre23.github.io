@@ -7,9 +7,16 @@ image: banner1.png
 ---
 **My recent activities**
 
+* June 2023: I presented a lecture on Machine Learning Performance Metrics at the Hochschule Darmstadt for 4th semester students. <br>
+
+* April 2023: I was invited to talk about my work on using Computer Vision techniques for crystal calibration at the SPIE conference in Prague in April. <br>
+
+<p align="center">
+  <img src="https://github.com/cgre23/cgre23.github.io/blob/master/images/spie_image.jpg?raw=true" width="500" title="Presenting my work at the SPIE Optics and Optoelectronics Conference in April.">
+</p>
+
 * March 2023: my Predictive Maintenance Case Study using XGBoost Classifiers and lagged features is now [public](https://www.kaggle.com/code/antimattermatters/using-xgboost-to-predict-supply-downtime/). <br>
 
-* February 2023: I have been invited to talk about my work on using Computer Vision techniques for crystal calibration at the SPIE conference in Prague in April. <br>
 
 * January 2023: My work with my colleagues on hard x-ray self-seeding at the European XFEL has been accepted for publication by Nature Photonics. <br>
 
