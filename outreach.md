@@ -9,8 +9,14 @@ comments: false
 
 Sharing my work as well as general scientific knowledge with the public is a big passion of mine. On this page I will share some information about these endeavours.
 
+### 2023
+* Invited to present a lecture at Hochschule Darmstadt on Machine Learning: Performance Metrics and Applications for Smart Cities.
+* Participated in the [SPIE Optics and Optoelectronics conference](https://spie.org/conferences-and-exhibitions/optics-and-optoelectronics) in Prague, where I presented my work as a contributed talk.
+
+
 ### 2022
 * Participated in the [International Particle Accelerator conference](https://www.ipac22.org) in Bangkok, where I presented my work in the organized poster session.
+* Won a grant and participated in the [CERN School of Computing](https://csc.web.cern.ch/) in Krakow, which covered topics such as Physics Computing, Software Engineering and Data Technologies.
 
 ### 2020
 * I won a student grant to present my work as part of the [International Particle Accelerator conference](https://www.ipac20.org/) (IPAC) 2020 held in Caen. The event was eventually cancelled due to the global pandemic.
