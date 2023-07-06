@@ -7,6 +7,8 @@ image: banner1.png
 ---
 **My recent activities**
 
+* July 2023: My contribution to the success of the experiment carried out at European XFEL exploring the resonant X-ray excitation of the nuclear clock isomer 45Sc has been acknowledged, as the manuscript has been recommended for publication in Nature. <br>
+
 * June 2023: I presented a lecture on Machine Learning Performance Metrics at the Hochschule Darmstadt for 4th semester students. <br>
 
 * April 2023: I was invited to talk about my work on using Computer Vision techniques for crystal calibration at the SPIE conference in Prague in April. <br>
@@ -19,10 +21,6 @@ image: banner1.png
 
 
 * January 2023: My work with my colleagues on hard x-ray self-seeding at the European XFEL has been accepted for publication by Nature Photonics. <br>
-
-* June 2022: I presented my work on the application of Machine Learning techniques for the European XFEL in Bangkok, Thailand. <br>
-
-* Sep 2021: My work on the development of a real-time magnetic measurement system at CERN was published by Electronics (MDPI).<br>
 
 
 **Who am I?**
