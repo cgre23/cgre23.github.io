@@ -7,6 +7,8 @@ image: banner1.png
 ---
 **My recent activities**
 
+* August 2023: After a marathon of learning, I finished the first course of Coursera's Deep Learning Specialization: Neural Networks and Deep Learning. In this course, one implements a neural network from scratch using only python, and no other framework, and this really helps to understand the concepts of forward propagation and backpropagation.
+
 * July 2023: My contribution to the success of the experiment carried out at European XFEL exploring the resonant X-ray excitation of the nuclear clock isomer 45Sc has been acknowledged, as the manuscript has been recommended for publication in Nature. <br>
 
 * June 2023: I presented a lecture on Machine Learning Performance Metrics at the Hochschule Darmstadt for 4th semester students. <br>
@@ -18,9 +20,6 @@ image: banner1.png
 </p>
 
 * March 2023: my Predictive Maintenance Case Study using XGBoost Classifiers and lagged features is now [public](https://www.kaggle.com/code/antimattermatters/using-xgboost-to-predict-supply-downtime/). <br>
-
-
-* January 2023: My work with my colleagues on hard x-ray self-seeding at the European XFEL has been accepted for publication by Nature Photonics. <br>
 
 
 **Who am I?**
