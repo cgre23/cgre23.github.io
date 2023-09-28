@@ -7,9 +7,12 @@ image: banner1.png
 ---
 **My recent activities**
 
+
+* September 2023: My contribution to the success of the experiment carried out at European XFEL exploring the resonant X-ray excitation of the nuclear clock isomer 45Sc has been acknowledged, as the manuscript has been [published in Nature](https://www.nature.com/articles/s41586-023-06491-w). <br>
+
 * August 2023: After a marathon of learning, I finished the first course of Coursera's Deep Learning Specialization: Neural Networks and Deep Learning. In this course, one implements a neural network from scratch using only python, and no other framework, and this really helps to understand the concepts of forward propagation and backpropagation.
 
-* July 2023: My contribution to the success of the experiment carried out at European XFEL exploring the resonant X-ray excitation of the nuclear clock isomer 45Sc has been acknowledged, as the manuscript has been recommended for publication in Nature. <br>
+
 
 * June 2023: I presented a lecture on Machine Learning Performance Metrics at the Hochschule Darmstadt for 4th semester students. <br>
 
