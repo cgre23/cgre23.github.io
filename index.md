@@ -7,7 +7,7 @@ image: banner1.png
 ---
 **My recent activities**
 
-* October 2023: My team's efforts towards a hard X-ray self seeding mode for the European XFEL, to generate brighter X-ray flashes are now described in this  [publication in Nature Photonics](https://www.nature.com/articles/s41566-023-01305-x). <br>
+* October 2023: My team's efforts towards a hard X-ray self seeding mode for the European XFEL, to generate brighter X-ray flashes are now described in this  [publication in Nature Photonics](https://www.nature.com/articles/s41566-023-01305-x). The usage of the HXRSS device at the European XFEL already allowed taking groundbreaking steps toward a new generation of nuclear clocks based on the resonant excitation of the nuclear clock isomer 45Sc. <br>
 
 * September 2023: My contribution to the success of the experiment carried out at European XFEL exploring the resonant X-ray excitation of the nuclear clock isomer 45Sc has been acknowledged, as the manuscript has been [published in Nature](https://www.nature.com/articles/s41586-023-06491-w). <br>
 
