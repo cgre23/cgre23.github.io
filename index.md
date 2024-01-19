@@ -7,13 +7,11 @@ image: banner1.png
 ---
 **My recent activities**
 
+* January 2024: Published my first blog post on a new open-source project I finished: [NLP Symptom Checker for Dutch speakers](https://christiangrech.medium.com/building-a-robust-dutch-nlp-symptom-checker-from-data-to-deployment-e389d874a247)
+
 * October 2023: My team's efforts towards a hard X-ray self seeding mode for the European XFEL, to generate brighter X-ray flashes are now described in this  [publication in Nature Photonics](https://www.nature.com/articles/s41566-023-01305-x). The usage of the HXRSS device at the European XFEL already allowed taking groundbreaking steps toward a new generation of nuclear clocks based on the resonant excitation of the nuclear clock isomer 45Sc. <br>
 
 * September 2023: My contribution to the success of the experiment carried out at European XFEL exploring the resonant X-ray excitation of the nuclear clock isomer 45Sc has been acknowledged, as the manuscript has been [published in Nature](https://www.nature.com/articles/s41586-023-06491-w). <br>
-
-* August 2023: After a marathon of learning, I finished the first course of Coursera's Deep Learning Specialization: Neural Networks and Deep Learning. In this course, one implements a neural network from scratch using only python, and no other framework, and this really helps to understand the concepts of forward propagation and backpropagation.
-
-
 
 * June 2023: I presented a lecture on Machine Learning Performance Metrics at the Hochschule Darmstadt for 4th semester students. <br>
 
@@ -23,7 +21,7 @@ image: banner1.png
   <img src="https://github.com/cgre23/cgre23.github.io/blob/master/images/spie_image.jpg?raw=true" width="500" title="Presenting my work at the SPIE Optics and Optoelectronics Conference in April.">
 </p>
 
-* March 2023: my Predictive Maintenance Case Study using XGBoost Classifiers and lagged features is now [public](https://www.kaggle.com/code/antimattermatters/using-xgboost-to-predict-supply-downtime/). <br>
+
 
 
 **Who am I?**
