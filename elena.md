@@ -1,5 +1,5 @@
 ---
-layout: page2
+layout: page
 title: The Development and Optimisation of the B-train System for the ELENA ring
 permalink: /elena/
 description: Magnetic measurements
@@ -16,7 +16,7 @@ Co-supervisor: Dr. Marco Buzio (CERN)
 <p align="justify"> As part of a site-wide consolidation project, all the B-train systems at CERN are being replaced with upgraded electronics, software, and sensors. The Extra Low ENergy Antiproton (ELENA) ring is a new decelerator being built at CERN; hence a B-train system is required to be installed and commissioned. The ELENA ring presents challenges to magnetic field measurement systems, such as very low magnetic field and long cycle times. The aim of this thesis is to commission a measurement model for the ELENA B-train, as well as validating and optimising the instrumentation. </p><br>
 
 <p align="center">
-  <img src="https://github.com/cgre23/cgre23.github.io/blob/master/images/ELENA_1.jpg?raw=true" width="500" title="ELENA ring">
+  <img src="https://github.com/cgre23/cgre23.github.io/blob/master/images/ELENA_1.jpg?raw=true" width="500" alt="ELENA Ring at CERN during commissioning" title="ELENA ring">
 </p>
 <p align="center"> Figure 1: ELENA Ring at the start of commissioning (Credit: Maximilien Brice/CERN) <br> <br>
 

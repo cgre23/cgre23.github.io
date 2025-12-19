@@ -1,13 +1,13 @@
 title: Christian Grech's Web Page
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //cgre23.github.io
+url:              https://cgre23.github.io
 
 # Owner/author information
 owner:
   name:           Christian Grech
-  avatar:         photo7.png
-  bio:            Computer Scientist at the <a href="http://desy.de"><b>Deutsches Elektronen-Synchrotron (DESY)</b>.
+  avatar:         profile-photo.png
+  bio:            Software Engineer at <a href="https://www.qd-st.com/"><b>Quantum Diamonds GmbH</b></a>.
   location:       Germany
   email:          chrisgre23@gmail.com
 
@@ -37,7 +37,7 @@ links:
   - title: Outreach
     url: /outreach/
   - title: Contact
-    url: /blog/
+    url: /contact/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 #timezone:    Europe/Zurich
@@ -45,8 +45,6 @@ links:
 #pygments:    true
 highlighter: rouge
 markdown:    kramdown
-kramdown:
-  extensions: ["strikethrough"]
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
@@ -57,13 +55,13 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
-
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    line_numbers:
+    line_numbers_start: 1
+    tab_width: 4
+    bold_every: 10
+    css: class
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

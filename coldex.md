@@ -1,5 +1,5 @@
 ---
-layout: page2
+layout: page
 title: 	COLDEX New Data Acquisition Framework
 permalink: /coldex/
 description: Magnetic measurements

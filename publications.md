@@ -2,8 +2,9 @@
 layout: publications
 permalink: /publications/
 title: My Publications
+description: Scientific publications and research work by Christian Grech in machine learning, accelerator physics, and instrumentation
 tags: [publications]
-modified: 8-7-2014
+modified: 19-12-2024
 comments: false
 ---
 

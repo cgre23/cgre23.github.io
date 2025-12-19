@@ -1,0 +1,428 @@
+/* Custom Color Scheme and Modern Improvements */
+
+/* Updated color palette */
+:root {
+  --accent-color: #2563eb;
+  --accent-hover: #1d4ed8;
+  --link-visited: #7c3aed;
+  --border-light: #e5e7eb;
+  --success: #10b981;
+  --warning: #f59e0b;
+  --danger: #ef4444;
+  --info: #06b6d4;
+}
+
+/* Links with modern accent color */
+a {
+  color: #2563eb;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:visited {
+  color: #7c3aed;
+}
+
+a:hover {
+  color: #1d4ed8;
+}
+
+a:focus {
+  color: #1d4ed8;
+  outline: 2px solid #2563eb;
+  outline-offset: 2px;
+}
+
+/* Updated button colors */
+.btn {
+  background-color: #2563eb;
+  border-color: #2563eb;
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #1d4ed8;
+  border-color: #1d4ed8;
+  color: #fff;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 6px rgba(37, 99, 235, 0.2);
+}
+
+.btn-success {
+  background-color: #10b981;
+  border-color: #10b981;
+}
+
+.btn-success:hover {
+  background-color: #059669;
+  border-color: #059669;
+  color: #fff;
+}
+
+.btn-warning {
+  background-color: #f59e0b;
+  border-color: #f59e0b;
+}
+
+.btn-warning:hover {
+  background-color: #d97706;
+  border-color: #d97706;
+  color: #fff;
+}
+
+.btn-danger {
+  background-color: #ef4444;
+  border-color: #ef4444;
+}
+
+.btn-danger:hover {
+  background-color: #dc2626;
+  border-color: #dc2626;
+  color: #fff;
+}
+
+.btn-info {
+  background-color: #06b6d4;
+  border-color: #06b6d4;
+}
+
+.btn-info:hover {
+  background-color: #0891b2;
+  border-color: #0891b2;
+  color: #fff;
+}
+
+/* Improved borders and spacing */
+.top-navigation li {
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.top-navigation li a:hover {
+  color: #2563eb;
+}
+
+/* Better visual hierarchy */
+h1, h2, h3, h4, h5, h6 {
+  color: #1f2937;
+  margin-bottom: 1rem;
+}
+
+/* Card-style elements */
+article {
+  background: #fff;
+  border-radius: 8px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Improved selection */
+::-moz-selection {
+  background-color: #bfdbfe;
+  color: #1e40af;
+  text-shadow: none;
+}
+
+::selection {
+  background-color: #bfdbfe;
+  color: #1e40af;
+  text-shadow: none;
+}
+
+/* Author social links with accent color */
+.author-social:hover {
+  color: #2563eb !important;
+}
+
+/* Responsive improvements */
+@media only screen and (max-width: 37.5em) {
+  body {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  h1 {
+    font-size: 1.75rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  .navigation-wrapper {
+    padding: 1em 0;
+  }
+}
+
+/* Add subtle shadow to images */
+article img {
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* Improved code blocks */
+pre, code {
+  border-radius: 4px;
+}
+
+.highlight {
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* Modern card styling */
+.article-wrap {
+  padding: 2em;
+}
+
+/* Project cards on homepage */
+#index article,
+#main article {
+  padding: 1.5em;
+  margin-bottom: 2em;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+#index article:hover,
+#main article:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Improved spacing and readability */
+p {
+  line-height: 1.7;
+  margin-bottom: 1.5em;
+}
+
+/* Better list styling */
+ul, ol {
+  line-height: 1.7;
+  margin-bottom: 1.5em;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+/* Modern hr styling */
+hr {
+  border: none;
+  border-top: 2px solid #e5e7eb;
+  margin: 2em 0;
+}
+
+/* Bio photo styling */
+.bio-photo {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.bio-photo:hover {
+  transform: scale(1.05);
+}
+
+/* Improved navigation */
+.site-name a {
+  color: #1f2937;
+  font-weight: bold;
+  transition: color 0.2s ease;
+}
+
+.site-name a:hover {
+  color: #2563eb;
+}
+
+/* Better footer styling */
+.footer-wrap {
+  background: #f9fafb;
+  border-top: 1px solid #e5e7eb;
+  margin-top: 3em;
+}
+
+/* Responsive grid improvements */
+@media only screen and (max-width: 37.5em) {
+  .article-wrap {
+    padding: 1em;
+  }
+
+  #index article,
+  #main article {
+    padding: 1em;
+  }
+
+  /* Make homepage cards stack nicely on mobile */
+  div[style*="grid"] {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* Improved focus states for accessibility */
+a:focus,
+button:focus,
+input:focus,
+textarea:focus {
+  outline: 2px solid #2563eb;
+  outline-offset: 2px;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Better blockquote styling */
+blockquote {
+  padding: 1em 1.5em;
+  margin-left: 0;
+  border-left: 4px solid #2563eb;
+  background: #f9fafb;
+  border-radius: 4px;
+}
+
+/* Table improvements */
+table {
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+table th {
+  background: #f3f4f6;
+  color: #1f2937;
+  font-weight: 600;
+  padding: 0.75em;
+}
+
+table td {
+  padding: 0.75em;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+table tr:last-child td {
+  border-bottom: none;
+}
+
+/* Publication list improvements */
+.publications li {
+  padding: 1em;
+  margin-bottom: 1em;
+  background: #f9fafb;
+  border-left: 3px solid #2563eb;
+  border-radius: 4px;
+}
+
+/* Page title improvements */
+.article-wrap h1:first-child {
+  color: #1f2937;
+  font-size: 2.5em;
+  margin-bottom: 0.5em;
+  padding-bottom: 0.3em;
+  border-bottom: 3px solid #2563eb;
+}
+
+/* Homepage Hero Section */
+.hero-section {
+  margin-bottom: 2em;
+}
+
+.hero-title {
+  font-size: 2.5em;
+  margin-bottom: 0.5em;
+  color: #1f2937;
+}
+
+.hero-subtitle {
+  font-size: 1.2em;
+  color: #6b7280;
+  margin-bottom: 1.5em;
+}
+
+/* Expertise Grid */
+.expertise-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1em;
+  margin: 1.5em 0;
+}
+
+.expertise-card {
+  padding: 1em;
+  background: #f9fafb;
+  border-radius: 4px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.expertise-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.expertise-card-ml {
+  border-left: 3px solid #2563eb;
+}
+
+.expertise-card-ml strong {
+  color: #2563eb;
+}
+
+.expertise-card-software {
+  border-left: 3px solid #10b981;
+}
+
+.expertise-card-software strong {
+  color: #10b981;
+}
+
+.expertise-card-data {
+  border-left: 3px solid #f59e0b;
+}
+
+.expertise-card-data strong {
+  color: #f59e0b;
+}
+
+.expertise-card-scientific {
+  border-left: 3px solid #06b6d4;
+}
+
+.expertise-card-scientific strong {
+  color: #06b6d4;
+}
+
+/* Call-to-Action Section */
+.cta-section {
+  text-align: center;
+  margin-top: 2em;
+  padding: 2em;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 8px;
+  color: white;
+}
+
+.cta-section h3 {
+  color: white;
+  margin-bottom: 0.5em;
+}
+
+.cta-section p {
+  margin-bottom: 1em;
+}
+
+.cta-button {
+  display: inline-block;
+  padding: 0.75em 2em;
+  background: white;
+  color: #667eea;
+  border-radius: 4px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.cta-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  color: #667eea;
+}

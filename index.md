@@ -3,42 +3,57 @@ layout: home2
 title: Welcome!
 description: "Christian Grech's website"
 tags: [Jekyll, theme, responsive, blog, template]
-image: banner1.png
 ---
-**My recent activities**
 
-* January 2024: Published my first blog post on a new open-source project I finished: [NLP Symptom Checker for Dutch speakers](https://christiangrech.medium.com/building-a-robust-dutch-nlp-symptom-checker-from-data-to-deployment-e389d874a247)
+<div class="hero-section">
+  <h2 class="hero-title">Software Engineer & Researcher</h2>
+  <p class="hero-subtitle">Specializing in engineering software for scientific instrumentation and quantum sensing</p>
+</div>
 
-* October 2023: My team's efforts towards a hard X-ray self seeding mode for the European XFEL, to generate brighter X-ray flashes are now described in this  [publication in Nature Photonics](https://www.nature.com/articles/s41566-023-01305-x). The usage of the HXRSS device at the European XFEL already allowed taking groundbreaking steps toward a new generation of nuclear clocks based on the resonant excitation of the nuclear clock isomer 45Sc. <br>
+## About Me
 
-* September 2023: My contribution to the success of the experiment carried out at European XFEL exploring the resonant X-ray excitation of the nuclear clock isomer 45Sc has been acknowledged, as the manuscript has been [published in Nature](https://www.nature.com/articles/s41586-023-06491-w). <br>
+I am a Software Engineer at **Quantum Diamonds GmbH**, developing cutting-edge software for quantum sensing devices used in semiconductor chip failure analysis. My work bridges machine learning, sensors, and instrumentation to solve complex scientific and engineering challenges.
 
-* June 2023: I presented a lecture on Machine Learning Performance Metrics at the Hochschule Darmstadt for 4th semester students. <br>
-
-* April 2023: I was invited to talk about my work on using Computer Vision techniques for crystal calibration at the SPIE conference in Prague in April. <br>
-
-<p align="center">
-  <img src="https://github.com/cgre23/cgre23.github.io/blob/master/images/spie_image.jpg?raw=true" width="500" title="Presenting my work at the SPIE Optics and Optoelectronics Conference in April.">
-</p>
-
-
-
-
-**Who am I?**
 <br>
 
-<p align="justify">My primary research interests are machine learning, sensors and instrumentation. I have carried out my PhD within the University of Malta in collaboration with the European Nuclear Research Organization (CERN), where I was responsible for commissioning and calibrating a real-time magnetic measurement system (B-train) for a new synchrotron (ELENA) used in antimatter research, and using sensor data from this system, I constructed a machine learning model for predicting the magnetic field in the machine in real-time. I currently hold a Postdoctoral Researcher position with DESY, working on the application of machine learning algorithms for virtual diagnostics of the European XFEL. </p><br>
+Previously, I spent three years as a Postdoctoral Researcher at **DESY**, applying machine learning algorithms for virtual diagnostics of the European XFEL. I earned my PhD from the **University of Malta** in collaboration with **CERN**, where I developed real-time machine learning models for predicting magnetic fields in the ELENA synchrotron used for antimatter research.
 
-<p align="justify">With regards to my skills, my long-term experience of using numerical software packages (Matlab, R and Python) and machine learning platforms (Tensorflow, Keras, Pytorch, Numpy. Pandas) enables me to conduct empirical research effectively. </p>
-<br>
+## Core Expertise
 
-**My strengths:**
+<div class="expertise-grid">
+  <div class="expertise-card expertise-card-ml">
+    <strong>Machine Learning</strong><br>
+    Neural Networks, Computer Vision, NLP, TensorFlow, PyTorch
+  </div>
+  <div class="expertise-card expertise-card-software">
+    <strong>Software Development</strong><br>
+    Python, Java, C, Qt, Application Development
+  </div>
+  <div class="expertise-card expertise-card-data">
+    <strong>Data Engineering</strong><br>
+    Pandas, NumPy, SQL, Elasticsearch, Cloud (AWS, GCP)
+  </div>
+  <div class="expertise-card expertise-card-scientific">
+    <strong>Scientific Computing</strong><br>
+    MATLAB, R, Instrumentation, Real-time Systems
+  </div>
+</div>
 
-<ul>
-  <li>Neural Networks</li>
-  <li>Surrogate Modelling</li>
-  <li>Python, Java</li>
-  <li>Natural Language Processing</li>
-  <li>Computer Vision</li>
-  <li>Time Series Forecasting</li>
-</ul>  
+## Featured Projects
+
+### [Machine Learning for X-Ray Self-Seeding](/euxfel/)
+Applied ML classifiers and computer vision techniques for Bragg crystal energy calibration at the European XFEL, achieving 68% extraction rate with low false positives using the Hough Transform method.
+
+### [ELENA B-train System](/elena/)
+Developed real-time machine learning models for magnetic field prediction in CERN's Extra Low Energy Antiproton ring, commissioning and calibrating the measurement system for antimatter research.
+
+### [NLP Keyword Extraction](/keywords/)
+Implemented natural language processing techniques to extract meaningful keywords from large datasets, creating streamlit interfaces and establishing cloud infrastructure for data processing.
+
+---
+
+<div class="cta-section">
+  <h3>Interested in collaboration?</h3>
+  <p>I'm always open to discussing machine learning, scientific computing, or quantum sensing projects.</p>
+  <a href="/contact/" class="cta-button">Get in Touch</a>
+</div>  

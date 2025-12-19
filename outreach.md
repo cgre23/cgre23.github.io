@@ -2,8 +2,9 @@
 layout: home2
 permalink: /outreach/
 title: Outreach
-tags: [tools]
-modified: 6-3-2018
+description: Science communication, public engagement, and outreach activities by Christian Grech including conferences, talks, and CERN tours
+tags: [outreach]
+modified: 19-12-2024
 comments: false
 ---
 
