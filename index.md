@@ -18,6 +18,25 @@ I am a Software Engineer at **Quantum Diamonds GmbH**, developing cutting-edge s
 
 Previously, I spent three years as a Postdoctoral Researcher at **DESY**, applying machine learning algorithms for virtual diagnostics of the European XFEL. I earned my PhD from the **University of Malta** in collaboration with **CERN**, where I developed real-time machine learning models for predicting magnetic fields in the ELENA synchrotron used for antimatter research.
 
+<div class="stats-section" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1.5em; margin: 3em 0; text-align: center;">
+  <div class="stat-card" style="padding: 1.5em; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 8px; color: white;">
+    <h2 style="font-size: 2.5em; margin: 0; color: white;">8+</h2>
+    <p style="margin: 0.5em 0 0 0; opacity: 0.9;">Publications</p>
+  </div>
+  <div class="stat-card" style="padding: 1.5em; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 8px; color: white;">
+    <h2 style="font-size: 2.5em; margin: 0; color: white;">10+</h2>
+    <p style="margin: 0.5em 0 0 0; opacity: 0.9;">Years Experience</p>
+  </div>
+  <div class="stat-card" style="padding: 1.5em; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 8px; color: white;">
+    <h2 style="font-size: 2.5em; margin: 0; color: white;">5+</h2>
+    <p style="margin: 0.5em 0 0 0; opacity: 0.9;">Major Projects</p>
+  </div>
+  <div class="stat-card" style="padding: 1.5em; background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); border-radius: 8px; color: white;">
+    <h2 style="font-size: 2.5em; margin: 0; color: white;">2</h2>
+    <p style="margin: 0.5em 0 0 0; opacity: 0.9;">GCP Certifications</p>
+  </div>
+</div>
+
 ## Core Expertise
 
 <div class="expertise-grid">
